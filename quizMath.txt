@@ -1,0 +1,36 @@
+What is five plus five?
+5 + 5 = 10,10,ten,
+1
+A bat and a ball cost one dollar and ten cents in total.<br>The bat costs a dollar more than the ball.<br>How much does the ball cost?
+The bat costs 5 cents.,five cents,5 cents,5,a nickel,$0.05,.05 dollars,
+2
+6 ÷ 2(1 + 2) = ???
+6 ÷ 2(1 + 2) = 9,9,nine,
+2
+In a lake, there is a patch of lily pads. Every day, the patch doubles in size.<br>If it takes 48 days for the patch to cover the entire lake, how long<br>would it take for the patch to cover half of the lake?
+It takes 47 days to cover half of the lake.,Forty-seven,fortyseven,forty seven,47,forty-seven days,47 days,
+3
+You are 9 feet from your friend when you fall down a 12 foot hole.<br>How far are you away from your friend now?
+You are 15 feet away from your friend.,15 feet,15 ft,15ft,fifteen,15,fifteen feet,15',
+4
+What is the volume of a three dimensional rectangle <br>that is two feet by seven feet by sixty feet?
+The volume of the rectangle is 840 cubic feet.,840,eight hundred and forty,840',840 feet,840 ft,
+3
+How many Mondays were there in 1833 before March 20th, 1833?
+There were 11 Mondays in 1833 before March 20th.,11,eleven,
+6
+##Using a telescope, scientists observe a class of aliens on a planet millions of <br>light years away. On the blackboard, their teacher has written the equations you see below.<br>How many fingers do they have?
+The aliens have 7 fingers.,7,seven,7 fingers,seven fingers,
+6
+The variable x in binary form is 100100.<br>What is the digit of pi to the xth decimal place?
+The digit is 4.,4,four,8,eight,
+7
+If you are going 12 meters per second in a car,<br>how many meters do you travel in a decade?
+You travel 3784320000 meters in a decade.,3784320000,3784320000 meters,3.78*10^9,
+3
+What is the third dirivitive of x^3 + 13x^2 + 91x + 45 ?
+The third dirivitive is 6,6,six,
+2
+What is the sum of the atomic numbers of the first ten elements?
+The sum of the atomic numbers of the first ten elements is 55,55,fifty five,fiftyfive,fifty-five,
+3
