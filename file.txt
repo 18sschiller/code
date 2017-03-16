@@ -1,0 +1,105 @@
+Bacon Egg & Cheese
+Simon Schiller
+20
+Bacon   2 Eggs   Cheese   Bagel   
+1. Cook the eggs.   2. Cook the bacon.   3. Cook the bagel   4. Combine them.   
+936
+5   
+Peanut Butter & Jelly
+Simon Schiller
+5
+Peanut Butter   Jelly   Bread   
+1. Spread peanut butter.   2. Spread jelly on bread.   3. Put bread together.   
+936
+8   6   
+Krabby Patty
+Eugene Krabs
+30
+Ground Beef    Onions   Tomatoes   Cheese   Sesame Seed Bun   Mayo   Ketchup   Mustard   Pickles   Oil   
+1. Organize the ground beef   into a long layer.   2. Cut round, patty shapes   for the Krabby patties.   3. Lay the Krabby patties on  a grill or frying pan. Heat   at 500 degrees for 5 minutes  on each of the sides for a    nice, rare to medium patty.   4. Lay the cheese on each of  the patties and let them melt for two minutes.   5. Take the patties off the   grill and put them on a bun.   6. Add all of the condiments  as listed in the ingredients.   7. Add the Secret Formula.   
+936
+6   
+Really Good Cake
+Mom Schiller
+45
+Butter   3 Eggs   Flour   Sugar   Salt   Baking Powder   Milk   Vanilla   
+1. Heat oven to 350 degrees.   2. Mix all dry ingredients.   3. Mix in the eggs.   4. Mix in everything else.   5. Bake for 25-30 minutes.   
+936
+4   8   
+Kraft's Mac n' Cheese
+Becca Fox
+8
+Macaroni   Cheese   Milk   Water   
+1. Take it out   2. Put it in the microwave   3. Eat it   
+beccaiscool
+8   
+Plain Lettuce
+Jeff Beyer
+11
+Lettuce   Sadness   Hatred   
+1. Put lettuce in bowl   2. Try to eat it   3. Cry   
+936
+1   7   
+Chicken Soup
+Simon Schiller
+20
+Can of Soup   Bowl   Spoon   Pot   Stove   
+1. Put the soup in the pot.   2. Cook the soup.   3. Pour the soup into bowl.   4. Eat the soup.   
+936
+0   8   
+Philadelphia Roll
+Simon Schiller
+50
+Nori Seaweed   Avacado   Salmon   Sticky Rice   Cream  Cheese   
+1. Lay the seaweed out.   2. Apply the sticky rice.   3. Put on topics.   4. Roll up.   5. Cut and eat.   
+936
+2   7   8   9   
+Chick Fil' A
+Simon Schiller
+5
+Phone   Money   Car   
+1. Call 1(866)232-2040   2. Order Chick Fil' A.   3. Pick it up.   4. Eat it.   
+936
+3   8   
+Apples & Honey
+Simon Schiller
+2
+Apples   Honey   
+1. Eat the apples.   2. Eat the honey.   
+936
+9   
+Matzah
+Simon Schiller
+8
+Matzah   Sadness   No Joy   Dissapointment   
+1. Eat the matzah.   2. Be sad about what you did.   3. Never love again.   
+936
+8   
+Single Carrot
+Simon Schiller
+2
+Carrot   Despair   
+1. Eat the carrot.   2. Question why you are doing  this to yourself.   
+936
+7   
+Suzy's Chicken
+Mom Schiller
+20
+Chicken Breast   Olive Oil   Tomatoes   Garlic   Capers   Olives   
+1. Heat olive oil in skillet.   2. Sautee tomatoes and garlic.   3. Place chicken in skillet.   4. Sautee for 5 minutes.   5. Serve with rice or pasta.   
+suzy
+3   
+Carrozza
+Jon Carrozza
+11
+Bread   Mozerella Cheese   Ham   Mustard   
+1. Get the bread out.   2. Get the cheese.   3. Procure the ham.   4. Find the mustard.   5. Put them together.   6. Toast for 4 minutes.   7. Eat and enjoy.   
+7461
+5   
+Pasta
+Emma Benning
+13
+Pasta   Water   Salt   Pesto Sauce   
+1. Boil water.   2. Put pasta in water.   3. Stir for 10-12 minutes.   4. Drain water.   5. Put pesto sauce on.   6. Serve and enjoy.   
+glutenfree
+8   
