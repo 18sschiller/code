@@ -1,0 +1,285 @@
+142
+Adscititious
+Amalgam
+Ampoule
+Anemia
+Ardor
+Austere
+Avaricious
+Ballyhoo
+Belfry
+Bestial
+Bigoted
+Bombastic
+Bona Fide
+Buttress
+Carouse
+Catechism
+Caustic
+Contrive
+Currogate
+Dace
+Dearth
+Debauchery
+Delusory
+Demur
+Derelict
+Derisive
+Derrick
+Desultory
+Dole
+Dour
+Enema
+Etiolated
+Expropriate
+Exude
+Fatuous
+Febrile
+Fecundity
+Flivver
+Folly
+Founder
+Gamboling
+Genial
+Gesticulate
+Graft
+Harangue
+Hedonistic
+Heretical
+Hypodermic
+Impedimenta
+Impudent
+Incongruous
+Indefatigable
+Inexorable
+Inimical
+Iniquity
+Injunction
+Inviolate
+Ipso Facto
+Irate
+Kingpin
+Labyrinthine
+Lambaste
+Lassitude
+Lymph
+Meritorious
+Minstrel
+Multifarious
+Muslin
+Nebulous
+Nostrum
+Obeisance
+Obstinate
+Officious
+Ossify
+Ostentation
+Palimpsest
+Palsy
+Paltry
+Panegyric
+Pannikin
+Paraffin
+Parity
+Parochialism
+Peonage
+Perennial
+Pernicious
+Persiflage
+Perturbed
+Philology
+Pillory
+Pinchbeck
+Poignantly
+Prevaricate
+Profer
+Profusion
+Proletariat
+Prolific
+Prostrate
+Protuberant
+Pulchritude
+Purposive
+Remonstrance
+Repudiation
+Rotarian
+Rouge
+Ruminant
+Saccharine
+Sanctimonious
+Sanguine
+Sententious
+Simian
+Sinecure
+Slaking
+Slatternly
+Sluttish
+Solipsism
+Sordid
+Soused
+Specious
+Succor
+Superfluous
+Supplant
+Supplicant
+Syndicalism
+Tacit
+Thrush
+Timorous
+Titular
+Tremulous
+Truncheon
+Unreproved
+Varicose
+Vaudeville
+Venereal
+Veritable
+Vilify
+Vinegary
+Visage
+Vitriol
+Wainscoting
+Whet
+Wraith
+Adscititious##Tending to form an addition or supplement.##1##b##c
+Amalgam##A mixture or blend.##1##b##c
+Ampoule##A sealed glass capsule containing a liquid, especially a measured quantity ready for injection.##1##b##c
+Anemia##A lack of power, vigor, or colorfulness - or a medical blood condition.##1##b##c
+Ardor##Enthusiasm or passion.##1##b##c
+Austere##Severe or strict in manner, attitude, or appearance.##1##b##c
+Avaricious##Having or showing an extreme greed for wealth or material gain.##1##b##c
+Ballyhoo##To praise or publicize extravagantly.##1##b##c
+Belfry##The part of a bell tower or steeple in which bells are housed.##1##b##c
+Bestial##Of or like an animal.##1##b##c
+Bigoted##Having an obstinate belief in the superiority of one's own opinions and a prejudiced intolerance of the opinions of others.##1##b##c
+Bombastic##High-sounding but with little meaning; inflated.##1##b##c
+Bona Fide##Genuine; real.##1##b##c
+Buttress##Increase the strength of or justification for; reinforce.##1##b##c
+Carouse##To engage in a drunken revel.##1##b##c
+Catechism##A summary of religious doctrine often in the form of questions and answers.##1##b##c
+Caustic##Able to burn or corrode organic tissue by chemical action.##1##b##c
+Contrive##To deliberately create rather than arising naturally or spotaneously.##1##b##c
+Currogate##Contract or cause to contract into wrinkles or folds.##1##b##c
+Dace##hello##1##b##c
+Dearth##A scarcity or lack of something.##1##b##c
+Debauchery##Excessive indulgence in sensual pleasures.##1##b##c
+Delusory##Giving a false or misleading impression; also delusive.##1##b##c
+Demur##Raise doubts or objections or show reluctance.##1##b##c
+Derelict##In a very poor condition as a result of disuse and neglect.##1##b##c
+Derisive##Expressing contempt or ridicule.##1##b##c
+Derrick##A kind of crane with a movable pivoted arm for moving or lifting heavy weights, especially on a ship.##1##b##c
+Desultory##Lacking in consistency; disconnected.##1##b##c
+Dole##Benefit paid by the government to the unemployed.##1##b##c
+Dour##Relentlessly severe, stern, or gloomy in manner or appearance.##1##b##c
+Enema##A procedure in which liquid or gas is injected into the rectum, typically to expel its contents.##1##b##c
+Etiolated##Having lost vigor or substance; feeble.##1##b##c
+Expropriate##To take away from its owner.##1##b##c
+Exude##Discharge (moisture or a smell) slowly and steadily.##1##b##c
+Fatuous##Silly and pointless.##1##b##c
+Febrile##Having or showing a great deal of nervous excitement or energy.##1##b##c
+Fecundity##The ability to produce an abundance of offspring or new growth; fertility.##1##b##c
+Flivver##A cheap car or aircraft, especially one in bad condition.##1##b##c
+Folly##Lack of good sense; foolishness.##1##b##c
+Founder##To fill with water and sink.##1##b##c
+Gamboling##Running or jumping about playfully.##1##b##c
+Genial##Friendly and cheerful.##1##b##c
+Gesticulate##Use gestures, especially dramatic ones, instead of speaking or to emphasize one's words.##1##b##c
+Graft##The acquisition of money or advantage by dishonest, unfair, or illegal means, especially through politics.##1##b##c
+Harangue##Lecture someone at length in an aggressive and critical manner.##1##b##c
+Hedonistic##Engaged in the pursuit of pleasure; sensually self-indulgent.##1##b##c
+Heretical##Believing in or practicing religious heresy.##1##b##c
+Hypodermic##Relating to the region immediately beneath the skin.##1##b##c
+Impedimenta##Equipment for an activity or expidition, especially when considered as bulk or an encumbrance.##1##b##c
+Impudent##Not showing due respect for another person; impertinent.##1##b##c
+Incongruous##Not in harmony or keeping with the surroundings or other aspects of something.##1##b##c
+Indefatigable##Persisting tirelessly.##1##b##c
+Inexorable##Impossible to stop or prevent.##1##b##c
+Inimical##Tending to obstruct or harm.##1##b##c
+Iniquity##Immoral or grossly unfair behavior.##1##b##c
+Injunction##An authoritative warning or order.##1##b##c
+Inviolate##Free or safe from injury or violation.##1##b##c
+Ipso Facto##By that very fact or act.##1##b##c
+Irate##Feeling or characterized by great anger.##1##b##c
+Kingpin##A main or large bolt in a central position.##1##b##c
+Labyrinthine##Like a labyrinth; irregular and twisting.##1##b##c
+Lambaste##To criticize harshly.##1##b##c
+Lassitude##The state of physical or mental weariness, or lack of energy.##1##b##c
+Lymph##A colorless fluid containing white blood cells.##1##b##c
+Meritorious##Deserving reward or praise.##1##b##c
+Minstrel##A medieval singer or musician, especially one who sang lyric.##1##b##c
+Multifarious##Many and of various types.##1##b##c
+Muslin##Lightweight cotton cloth in a plain weave.##1##b##c
+Nebulous##In the form of a cloud or haze; hazy.##1##b##c
+Nostrum##A medicine, especially one that is not considered effective, prepared by an unqualified person.##1##b##c
+Obeisance##Deferential respect.##1##b##c
+Obstinate##Stubbornly refusing to change one's opinion or chosen course of action.##1##b##c
+Officious##Assertive of authority in an annoyingly domineering way, especially with regard to petty or trivial matters.##1##b##c
+Ossify##To turn into bone or bony tissue.##1##b##c
+Ostentation##Pretentious and vulgar display, especially of wealth and luxury, intended to impress or attract notice.##1##b##c
+Palimpsest##A piece of writing material on which original writing has been effaced to make room for later writing but of which traces remain.##1##b##c
+Palsy##Paralysis, especially that which is accompanied by involuntary tremors.##1##b##c
+Paltry##Small or meager.##1##b##c
+Panegyric##A public speech or published text in praise of someone or something.##1##b##c
+Pannikin##A small metal drinking cup.##1##b##c
+Paraffin##A whitish, translucent solid consisting of a mixture of saturated hydrocarbons, used in candles, cosmetics, and waterproofing.##1##b##c
+Parity##The state or condition of being equal, especially regarding status or pay.##1##b##c
+Parochialism##A limited or narrow outlook, especially focused on a local area; narrow-mindedness.##1##b##c
+Peonage##The use of laborers bound in servitude because of debt.##1##b##c
+Perennial##Lasting or existing for a long or apparently infinite time; enduring or continually recurring.##1##b##c
+Pernicious##Having a harmful effect, especially in a gradual or subtle way.##1##b##c
+Persiflage##Light and slightly contemptuous mockery or banter.##1##b##c
+Perturbed##Anxious or unsettled; upset.##1##b##c
+Philology##The branch of knowledge that deals with the structure, historical development, and relationships of a language.##1##b##c
+Pillory##A wooden framework with holes for the head and hands, in which an offender was imprisoned and exposed to public abuse.##1##b##c
+Pinchbeck##Appearing valuable, but actually cheap or tawdry.##1##b##c
+Poignantly##In a way that evokes a keen sense of sadness or regret.##1##b##c
+Prevaricate##Speak or act in an evasive way.##1##b##c
+Profer##To utter, or to express.##1##b##c
+Profusion##An abundance or large quantity of something.##1##b##c
+Proletariat##Working class people, or the regular commoner in an industrial society.##1##b##c
+Prolific##Present in large numbers or quantities; plentiful.##1##b##c
+Prostrate##Lay oneself flat on the ground face downward, especially in reverence or submission.##1##b##c
+Protuberant##Protruding; bulging.##1##b##c
+Pulchritude##Beauty.##1##b##c
+Purposive##Having, serving, or done with a purpose.##1##b##c
+Remonstrance##A forcefully reproachful protest.##1##b##c
+Repudiation##Rejection of a proposal or idea.##1##b##c
+Rotarian##A member of a major national and international service club.##1##b##c
+Rouge##A red powder or cream used as a cosmetic for coloring the cheeks or lips.##1##b##c
+Ruminant##A contemplative person; a person given to meditation. Also a type of animal.##1##b##c
+Saccharine##Excessively sweet or sentimental.##1##b##c
+Sanctimonious##Making a show of being morally superior to other people.##1##b##c
+Sanguine##Optimistic or positive, especially in an apparently bad situation.##1##b##c
+Sententious##Given to moralizing in a pompous or affected manner.##1##b##c
+Simian##Relating to, resembling, or affecting apes or monkeys.##1##b##c
+Sinecure##A position requiring little or no work but giving the holder status or financial benefit.##1##b##c
+Slaking##Quenching or satisfying one's thirst.##1##b##c
+Slatternly##Of a woman or her appearance, dirty and untidy.##1##b##c
+Sluttish##Characteristic of or befitting a slut or slattern; used especially of women.##1##b##c
+Solipsism##The view or theory that the self is all that can be known to exist.##1##b##c
+Sordid##Involving ignoble actions and motives; arousing moral distaste and contempt.##1##b##c
+Soused##Drunk; sometimes used to describe marinated fish.##1##b##c
+Specious##Superficially plausible, but actually wrong.##1##b##c
+Succor##Assistance and support in times of hardship and distress.##1##b##c
+Superfluous##Unnecessary, especially through being more than enough.##1##b##c
+Supplant##Supersede and replace.##1##b##c
+Supplicant##Someone who begs earnestly for something they want; usually used to describe religious people.##1##b##c
+Syndicalism##A system of economic organization in which industries are owned and managed by the workers.##1##b##c
+Tacit##Understood or implied without being stated.##1##b##c
+Thrush##A small songbird, typically having a brown back, spotted breast, and loud song.##1##b##c
+Timorous##Showing or suffering from nervousness, fear, or a lack of confidence.##1##b##c
+Titular##Holding or constituting a purely formal position or title without any real authority.##1##b##c
+Tremulous##Shaking or quivering slightly.##1##b##c
+Truncheon##A short, think stick carried as a weapon by a police officer.##1##b##c
+Unreproved##Not rebuked for a fault or misdeed.##1##b##c
+Varicose##Affected by a condition causing the swelling and tortuous lengthening of veins.##1##b##c
+Vaudeville##A stage play on a trivial theme with interspersed songs.##1##b##c
+Venereal##Relating to sexual desire or sexual intercouse.##1##b##c
+Veritable##Used as an intensifier, often to qualify a metaphor.##1##b##c
+Vilify##Speak or write about in an abusively disparaging manner.##1##b##c
+Vinegary##Disagreeable, bitter, or irascible in character or manner.##1##b##c
+Visage##A person's face, with reference to the form or proportions of the features.##1##b##c
+Vitriol##Cruel and bitter criticism.##1##b##c
+Wainscoting##Wooden paneling that lines the lower part of the walls of a room.##1##b##c
+Whet##To sharpen the blade of a tool or weapon.##1##b##c
+Wraith##A ghost or ghostlike image of someone, especially one seen shortly before or after their death.##1##b##c
